@@ -1,1 +1,2 @@
-# repo_SI_licencias_1
+# MIT license
+el creador no se responsabiliza de los acontecimientes que pasen despues de la distribucion/venta del software.
